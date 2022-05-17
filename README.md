@@ -1,4 +1,4 @@
-# JSON-to-multiple-YAML
+# API to Frontmatter
 Dumb script to take an API response and convert to multiple YAML files
 
 
