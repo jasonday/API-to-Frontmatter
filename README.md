@@ -1,5 +1,6 @@
 # API to Frontmatter
-Dumb script to take an API response and convert to markdown files with frontmatter. 
+Dumb script to take an API response and convert to markdown files with frontmatter.
+Initially created to take dynamic content from a headless CMS and convert to a markdown based site. 
 
 
 ## Use:
