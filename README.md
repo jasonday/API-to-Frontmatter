@@ -1,5 +1,5 @@
 # API to Frontmatter
-Dumb node.js script to take an API response and convert to markdown files with frontmatter.
+Dumb node.js script to take a JSON API response and convert to markdown files with YAML frontmatter.
 Initially created to take dynamic content from a headless CMS and convert to a markdown based site. 
 
 
